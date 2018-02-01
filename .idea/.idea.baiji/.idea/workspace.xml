@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a38e48e-d5b1-45d2-b32e-1f9b073908f3" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="DebugConsoleHandler.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baiji/DebugConsoleHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding>
+                <marker date="1517524315209" expanded="true" signature="42:618" ph="{...}" />
+                <marker date="1517524315209" expanded="true" signature="97:616" ph="{...}" />
+                <marker date="1517524315209" expanded="true" signature="143:610" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IProbeHandler.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baiji/IProbeHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1517524315223" expanded="true" signature="15:100" ph="{...}" />
+                <marker date="1517524315223" expanded="true" signature="52:98" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogFileHandler.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baiji/LogFileHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+              <folding>
+                <marker date="1517524315244" expanded="true" signature="15:372" ph="{...}" />
+                <marker date="1517524315244" expanded="true" signature="65:370" ph="{...}" />
+                <marker date="1517524315244" expanded="true" signature="118:176" ph="{...}" />
+                <marker date="1517524315244" expanded="true" signature="217:321" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/baiji.sample/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1050">
+              <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+              <folding>
+                <marker date="1517524775175" expanded="true" signature="6:127" ph="..." />
+                <marker date="1517524775175" expanded="true" signature="151:2334" ph="{...}" />
+                <marker date="1517524775175" expanded="true" signature="182:2332" ph="{...}" />
+                <marker date="1517524775175" expanded="true" signature="235:695" ph="{...}" />
+                <marker date="1517524775175" expanded="true" signature="754:1162" ph="{...}" />
+                <marker date="1517524775175" expanded="true" signature="885:1152" ph="{...}" />
+                <marker date="1517524775175" expanded="true" signature="999:1103" ph="{...}" />
+                <marker date="1517524775175" expanded="true" signature="1219:2326" ph="{...}" />
+                <marker date="1517524775175" expanded="true" signature="2090:2316" ph="{...}" />
+                <marker date="1517524775175" expanded="true" signature="2163:2267" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MemoryBenchmark.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baiji/MemoryBenchmark.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+              <folding>
+                <marker date="1517524315236" expanded="true" signature="6:119" ph="..." />
+                <marker date="1517524315236" expanded="true" signature="136:4620" ph="{...}" />
+                <marker date="1517524315236" expanded="true" signature="185:4618" ph="{...}" />
+                <marker date="1517524315236" expanded="true" signature="224:278" ph="{...}" />
+                <marker date="1517524315236" expanded="true" signature="341:428" ph="{...}" />
+                <marker date="1517524315236" expanded="true" signature="498:589" ph="{...}" />
+                <marker date="1517524315236" expanded="true" signature="652:771" ph="{...}" />
+                <marker date="1517524315236" expanded="true" signature="838:919" ph="{...}" />
+                <marker date="1517524315236" expanded="true" signature="950:1440" ph="{...}" />
+                <marker date="1517524315236" expanded="true" signature="1469:1590" ph="{...}" />
+                <marker date="1517524315236" expanded="true" signature="1635:1996" ph="{...}" />
+                <marker date="1517524315236" expanded="true" signature="1808:1930" ph="{...}" />
+                <marker date="1517524315236" expanded="true" signature="2044:3259" ph="{...}" />
+                <marker date="1517524315236" expanded="true" signature="3346:3961" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Probe.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baiji/Probe.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+              <folding>
+                <marker date="1517524315254" expanded="true" signature="35:2188" ph="{...}" />
+                <marker date="1517524315254" expanded="true" signature="47:160" ph="/* total .net: gen counters put together ... */" />
+                <marker date="1517524315254" expanded="true" signature="188:2186" ph="{...}" />
+                <marker date="1517524315254" expanded="true" signature="965:1425" ph="{...}" />
+                <marker date="1517524315254" expanded="true" signature="1468:2180" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProcessUtils.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baiji/ProcessUtils.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+              <folding>
+                <marker date="1517524260988" expanded="true" signature="6:39" ph="..." />
+                <marker date="1517524260988" expanded="true" signature="56:916" ph="{...}" />
+                <marker date="1517524260988" expanded="true" signature="81:914" ph="{...}" />
+                <marker date="1517524260988" expanded="true" signature="150:908" ph="{...}" />
+                <marker date="1517524260988" expanded="true" signature="357:728" ph="{...}" />
+                <marker date="1517524260988" expanded="true" signature="507:714" ph="{...}" />
+                <marker date="1517524260988" expanded="true" signature="611:696" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/baiji/IProbeHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/baiji/DebugConsoleHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/baiji.sample/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/baiji/ProcessUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/baiji/LogFileHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/baiji/MemoryBenchmark.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/baiji/Probe.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/baiji/Class1.cs" />
+        <option value="$PROJECT_DIR$/baiji/ProcessUtils.cs" />
+        <option value="$PROJECT_DIR$/baiji/DebugConsoleHandler.cs" />
+        <option value="$PROJECT_DIR$/baiji/IProbeHandler.cs" />
+        <option value="$PROJECT_DIR$/baiji/LogFileHandler.cs" />
+        <option value="$PROJECT_DIR$/baiji/MemoryBenchmark.cs" />
+        <option value="$PROJECT_DIR$/baiji/Probe.cs" />
+        <option value="$PROJECT_DIR$/baiji.sample/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="54" />
+    <option name="y" value="-8" />
+    <option name="width" value="2514" />
+    <option name="height" value="1452" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="baiji (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="baiji (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="baiji" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="baiji (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="baiji.sample" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/baiji/ProcessUtils.cs" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a38e48e-d5b1-45d2-b32e-1f9b073908f3" name="Default" comment="" />
+      <created>1517524074952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517524074952</updated>
+      <workItem from="1517524077042" duration="836000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="836000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2497309" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/baiji/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baiji/ProcessUtils.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding>
+            <marker date="1517524260988" expanded="true" signature="6:39" ph="..." />
+            <marker date="1517524260988" expanded="true" signature="56:916" ph="{...}" />
+            <marker date="1517524260988" expanded="true" signature="81:914" ph="{...}" />
+            <marker date="1517524260988" expanded="true" signature="150:908" ph="{...}" />
+            <marker date="1517524260988" expanded="true" signature="357:728" ph="{...}" />
+            <marker date="1517524260988" expanded="true" signature="507:714" ph="{...}" />
+            <marker date="1517524260988" expanded="true" signature="611:696" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baiji/Probe.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <folding>
+            <marker date="1517524315254" expanded="true" signature="35:2188" ph="{...}" />
+            <marker date="1517524315254" expanded="true" signature="47:160" ph="/* total .net: gen counters put together ... */" />
+            <marker date="1517524315254" expanded="true" signature="188:2186" ph="{...}" />
+            <marker date="1517524315254" expanded="true" signature="965:1425" ph="{...}" />
+            <marker date="1517524315254" expanded="true" signature="1468:2180" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baiji/MemoryBenchmark.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <marker date="1517524315236" expanded="true" signature="6:119" ph="..." />
+            <marker date="1517524315236" expanded="true" signature="136:4620" ph="{...}" />
+            <marker date="1517524315236" expanded="true" signature="185:4618" ph="{...}" />
+            <marker date="1517524315236" expanded="true" signature="224:278" ph="{...}" />
+            <marker date="1517524315236" expanded="true" signature="341:428" ph="{...}" />
+            <marker date="1517524315236" expanded="true" signature="498:589" ph="{...}" />
+            <marker date="1517524315236" expanded="true" signature="652:771" ph="{...}" />
+            <marker date="1517524315236" expanded="true" signature="838:919" ph="{...}" />
+            <marker date="1517524315236" expanded="true" signature="950:1440" ph="{...}" />
+            <marker date="1517524315236" expanded="true" signature="1469:1590" ph="{...}" />
+            <marker date="1517524315236" expanded="true" signature="1635:1996" ph="{...}" />
+            <marker date="1517524315236" expanded="true" signature="1808:1930" ph="{...}" />
+            <marker date="1517524315236" expanded="true" signature="2044:3259" ph="{...}" />
+            <marker date="1517524315236" expanded="true" signature="3346:3961" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baiji/IProbeHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1517524315223" expanded="true" signature="15:100" ph="{...}" />
+            <marker date="1517524315223" expanded="true" signature="52:98" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baiji/DebugConsoleHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <marker date="1517524315209" expanded="true" signature="42:618" ph="{...}" />
+            <marker date="1517524315209" expanded="true" signature="97:616" ph="{...}" />
+            <marker date="1517524315209" expanded="true" signature="143:610" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baiji/LogFileHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding>
+            <marker date="1517524315244" expanded="true" signature="15:372" ph="{...}" />
+            <marker date="1517524315244" expanded="true" signature="65:370" ph="{...}" />
+            <marker date="1517524315244" expanded="true" signature="118:176" ph="{...}" />
+            <marker date="1517524315244" expanded="true" signature="217:321" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baiji.sample/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding>
+            <marker date="1517524775175" expanded="true" signature="6:127" ph="..." />
+            <marker date="1517524775175" expanded="true" signature="151:2334" ph="{...}" />
+            <marker date="1517524775175" expanded="true" signature="182:2332" ph="{...}" />
+            <marker date="1517524775175" expanded="true" signature="235:695" ph="{...}" />
+            <marker date="1517524775175" expanded="true" signature="754:1162" ph="{...}" />
+            <marker date="1517524775175" expanded="true" signature="885:1152" ph="{...}" />
+            <marker date="1517524775175" expanded="true" signature="999:1103" ph="{...}" />
+            <marker date="1517524775175" expanded="true" signature="1219:2326" ph="{...}" />
+            <marker date="1517524775175" expanded="true" signature="2090:2316" ph="{...}" />
+            <marker date="1517524775175" expanded="true" signature="2163:2267" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
