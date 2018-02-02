@@ -1,7 +1,0 @@
-C:\repos\baiji\baiji.sample\bin\Debug\baiji.sample.exe
-C:\repos\baiji\baiji.sample\bin\Debug\baiji.sample.pdb
-C:\repos\baiji\baiji.sample\bin\Debug\baiji.dll
-C:\repos\baiji\baiji.sample\bin\Debug\baiji.pdb
-C:\repos\baiji\baiji.sample\obj\Debug\baiji.sample.csprojResolveAssemblyReference.cache
-C:\repos\baiji\baiji.sample\obj\Debug\baiji.sample.exe
-C:\repos\baiji\baiji.sample\obj\Debug\baiji.sample.pdb
